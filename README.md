@@ -1,2 +1,3 @@
-# myNatours
-learning to use sassy css yay!!!
+# natours
+
+my trial of Jonas schnedtmann's class on sass
